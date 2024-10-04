@@ -1,8 +1,33 @@
-# React + Vite
+# Portfolio Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio page built with React and Vite, showcasing my projects, skills, and experiences.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React
+- Vite
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design using Tailwind CSS
+- Smooth navigation
+- Sections for projects, skills, and contact information
+- Easy to update and maintain
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/19ruchita/Portfolio-Page.git
+   cd Portfolio-Page
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
+Your project should now be running on http://localhost:1573.
+
+Contact
+For any inquiries, feel free to reach out to me at: ruchita05raje@gmail.com
